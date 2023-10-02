@@ -1,0 +1,3 @@
+This is the first line.
+Writing to files is easy.
+Python is great for file handling.
